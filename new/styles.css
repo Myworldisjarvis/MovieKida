@@ -1,0 +1,152 @@
+body {
+    background-color: #000;
+    color: #fff;
+    scroll-behavior: smooth;
+}
+
+.navbar {
+    background: linear-gradient(90deg, #c8102e, #000);
+    border-bottom: 2px solid #f6f6f6;
+}
+
+.navbar-brand {
+    color: #fff !important;
+}
+
+.nav-link {
+    color: #fff !important;
+}
+
+.card {
+    background: #333;
+    border: none;
+    color: #fff;
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+}
+
+.card img {
+    height: 200px;
+    object-fit: cover;
+}
+
+.card-body {
+    padding: 15px;
+}
+
+.card-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.card-text {
+    font-size: 1rem;
+}
+
+#movieContainer {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#movieContainer .col-md-4 {
+    margin-bottom: 20px;
+}
+
+#loadMoreBtn {
+    display: block;
+    margin: 20px auto;
+}
+
+button {
+    border-radius: 25px;
+}
+
+input[type="file"] {
+    border: none;
+}
+
+.modal-content {
+    background: #333;
+    color: #fff;
+}
+
+@media (max-width: 768px) {
+    .navbar-brand, .nav-link {
+        font-size: 1rem;
+    }
+}
+
+
+
+
+/* Poster Section */
+#posterSection {
+    margin-bottom: 20px; /* Space between poster and carousel */
+}
+
+#posterImg {
+    width: 100%;
+    height: auto;
+    border-radius: 15px; /* Rounded corners for poster */
+}
+
+
+/* Carousel Section */
+
+.carousel {
+    border-radius: 15px; /* Rounded corners for carousel container */
+    overflow: hidden; /* Ensure images do not overflow container */
+}
+
+.carousel-inner .carousel-item img {
+    border-radius: 15px; /* Rounded corners for carousel images */
+    object-fit: cover; /* Ensure images cover the entire carousel item */
+}
+
+.carousel-control-prev, .carousel-control-next {
+    filter: invert(100%); /* Invert colors for better visibility */
+}
+
+.carousel-control-prev-icon, .carousel-control-next-icon {
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background for icons */
+    border-radius: 50%; /* Rounded control icons */
+}
+
+.carousel-indicators li {
+    background-color: red; /* Indicator dots color */
+}
+
+.carousel-indicators .active {
+    background-color: black; /* Active indicator dot color */
+}
+
+
+
+.navbar-brand, .nav-link {
+    color: #FFFFFF !important;
+    font-weight: bold;
+}
+
+
+/* Style for the navbar links */
+.nav-link {
+    color: white !important;
+    transition: color 0.3s;
+}
+
+.nav-link:hover {
+    color: #ff0000 !important;
+}
+
+
+/* footer */
+footer {
+    background-color: #1A1A1A;
+    color: #F5F5F5;
+    text-align: center;
+    padding: 10px 0;
+}

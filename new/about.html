@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <title>About Us</title>
+    <!-- <link rel="stylesheet" href="styles.css"> -->
+
+    <style>
+
+
+/* Animation for the logo text */
+@keyframes shine {
+    0% {
+        background-position: -100%;
+    }
+    100% {
+        background-position: 200%;
+    }
+}
+
+.logo-text {
+    color: #ffffff;
+    font-weight: bold;
+    
+    /* -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    animation: shine 1.5s infinite linear; */
+    display: inline-block;
+}
+
+.logo-kida {
+    color: rgb(7, 7, 7);
+    font-weight: bolder;
+}
+
+
+
+body {
+    background-color: #000000;
+    color: #FFFFFF;
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+@media (max-width: 768px) {
+    .navbar-brand, .nav-link {
+        font-size: 1rem;
+    }
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background: linear-gradient(90deg, #C8102E, #000000);
+    border-bottom: 2px solid #f6f6f6;
+    box-shadow: 0 0 10px rgba(255, 0, 0, 0.5);
+}
+
+.navbar-brand {
+    color: red;
+    font-weight: bold;
+    font-size: 1.5rem;
+    background: linear-gradient(120deg, #ff0000, #ffffff, #ff0000);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    animation: shine 1.5s infinite linear;
+}
+
+.navbar-nav {
+    display: flex;
+    gap: 15px;
+}
+
+.nav-link {
+    color: white !important;
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s;
+}
+
+.nav-link:hover {
+    color: #ff0000 !important;
+} 
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.section-title {
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+
+.card {
+    background: #1A1A1A;
+    border: none;
+    color: #F5F5F5;
+    transition: transform 0.3s, box-shadow 0.3s;
+    border-radius: 10px;
+    overflow: hidden;
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.card-img-top {
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+}
+
+.card-body {
+    padding: 20px;
+    text-align: center;
+}
+
+.card-title {
+    font-size: 1.8rem;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.card-text {
+    font-size: 1.1rem;
+    margin-bottom: 10px;
+}
+
+.btn {
+    display: inline-block;
+    background-color: #C8102E;
+    color: #FFFFFF;
+    padding: 10px 20px;
+    border-radius: 25px;
+    font-size: 1.2rem;
+    text-decoration: none;
+    transition: background-color 0.3s;
+    margin-top: 20px;
+}
+
+.btn:hover {
+    background-color: #FF5A5F;
+}
+
+footer {
+    background-color: #1A1A1A;
+    color: #F5F5F5;
+    text-align: center;
+    padding: 10px 0;
+}
+
+@keyframes shine {
+    0% {
+        background-position: -100%;
+    }
+    100% {
+        background-position: 200%;
+    }
+}
+
+@media (max-width: 768px) {
+    .navbar-brand {
+        font-size: 1.5rem;
+    }
+
+    .nav-link {
+        font-size: 1rem;
+    }
+
+    .card-title {
+        font-size: 1.5rem;
+    }
+
+    .btn {
+        font-size: 1rem;
+    }
+}
+
+
+    </style>
+</head>
+<body>
+    <nav class="navbar">
+        <a class="navbar-brand" href="#">
+            <span class="logo-text">Movie</span><span class="logo-kida">Kida</span>
+        </a>
+        <div class="navbar-nav">
+            <a class="nav-link" href="index.html">Home</a>
+            <a class="nav-link" href="#">About Us</a>
+        </div>
+    </nav>
+
+    
+
+    <div class="container">
+        <section id="about">
+            <h1 class="section-title">About Me</h1>
+            <div class="card">
+                <img src="/new/images/Sadaf Hussain.png" class="card-img-top" alt="Profile Picture">
+                <div class="card-body">
+                    <h2 class="card-title">Sadaf Hussain</h2>
+                    <p class="card-text">Aspiring developer with a solid academic background in B.Tech Computer Science Engineering, aiming to leverage my programming skills and passion for technology to contribute effectively to a collaborative and dynamic software development team.</p>
+                    <p class="card-text">Email: <a href="mailto:namesadaf@gmail.com">namesadaf@gmail.com</a></p>
+                    <p class="card-text">Mobile: +91-7987837245</p>
+                    <p class="card-text">LinkedIn: <a href="https://www.linkedin.com/in/sadaf-hussain-367286218" target="_blank">sadaf-hussain-367286218</a></p>
+                    <p class="card-text">GitHub: <a href="https://github.com/Myworldisjarvis" target="_blank">Myworldisjarvis</a></p>
+                    <a href="/new/images/My Resume.pdf" class="btn" download>Download Resume</a>
+                </div>
+            </div>
+        </section>
+
+        <section id="projects">
+            <h1 class="section-title">Projects</h1>
+            <div class="card">
+                <h2 class="card-title">Spending Tracker</h2>
+                <p class="card-text">A desktop application for tracking daily expenses, developed using Java and MySQL.</p>
+            </div>
+            <div class="card">
+                <h2 class="card-title">DN Chocolate</h2>
+                <p class="card-text">A user-friendly chocolate selling web project created using HTML, CSS, Tailwind-CSS, and JavaScript.</p>
+            </div>
+        </section>
+    </div>
+
+    <footer class="footer">
+        <p>&copy; 2024 Sadaf Hussain. All rights reserved.</p>
+    </footer>
+</body>
+</html>

@@ -1,0 +1,461 @@
+[
+    {
+        "id": "mkida_1",
+        "title": "Inception",
+        "actor": "Leonardo DiCaprio",
+        "genre": "Hollywood",
+        "image": "https://mcdn.wallpapersafari.com/medium/19/55/jN572g.jpg",
+        "link": "https://www.example.com/inception",
+        "description": "A mind-bending thriller by Christopher Nolan."
+    },
+    {
+        "id": "mkida_2",
+        "title": "3 Idiots",
+        "actor": "Aamir Khan",
+        "genre": "Bollywood",
+        "image": "https://m.media-amazon.com/images/I/81LlqfZifFL._AC_SL1500_.jpg",
+        "link": "https://www.example.com/3idiots",
+        "description": "A coming-of-age comedy-drama film."
+    },
+    {
+        "id": "mkida_3",
+        "title": "Baahubali: The Beginning",
+        "actor": "Prabhas",
+        "genre": "South",
+        "image": "https://m.media-amazon.com/images/I/714rmfqADsL._AC_SL1000_.jpg",
+        "link": "https://www.example.com/baahubali",
+        "description": "An epic action film directed by S. S. Rajamouli."
+    },
+    {
+        "id": "mkida_4",
+        "title": "The Dark Knight",
+        "actor": "Christian Bale",
+        "genre": "Hollywood",
+        "image": "https://m.media-amazon.com/images/I/51v5ZpFyaFL._AC_.jpg",
+        "link": "https://www.example.com/thedarkknight",
+        "description": "A superhero film directed by Christopher Nolan."
+    },
+    {
+        "id": "mkida_5",
+        "title": "Dilwale Dulhania Le Jayenge",
+        "actor": "Shah Rukh Khan",
+        "genre": "Bollywood",
+        "image": "https://m.media-amazon.com/images/I/91c5LG-mABL._SL1500_.jpg",
+        "link": "https://www.example.com/ddlj",
+        "description": "A romance film directed by Aditya Chopra."
+    },
+    {
+        "id": "mkida_6",
+        "title": "KGF: Chapter 1",
+        "actor": "Yash",
+        "genre": "South",
+        "image": "https://m.media-amazon.com/images/I/71MyHRQUaIL._SL1181_.jpg",
+        "link": "https://www.example.com/kgf1",
+        "description": "An action film directed by Prashanth Neel."
+    },
+    {
+        "id": "mkida_7",
+        "title": "Interstellar",
+        "actor": "Matthew McConaughey",
+        "genre": "Hollywood",
+        "image": "https://m.media-amazon.com/images/I/81L9C3FDCIL._AC_SY679_.jpg",
+        "link": "https://www.example.com/interstellar",
+        "description": "A science fiction film directed by Christopher Nolan."
+    },
+    {
+        "id": "mkida_8",
+        "title": "Kabhi Khushi Kabhie Gham",
+        "actor": "Amitabh Bachchan",
+        "genre": "Bollywood",
+        "image": "https://m.media-amazon.com/images/I/91KdS8KkRZL._SL1500_.jpg",
+        "link": "https://www.example.com/k3g",
+        "description": "A family drama film directed by Karan Johar."
+    },
+    {
+        "id": "mkida_9",
+        "title": "Ratsasan",
+        "actor": "Vishnu Vishal",
+        "genre": "South",
+        "image": "https://m.media-amazon.com/images/I/81EfnZTeY0L._SL1500_.jpg",
+        "link": "https://www.example.com/ratsasan",
+        "description": "A psychological thriller directed by Ram Kumar."
+    },
+    {
+        "id": "mkida_10",
+        "title": "Avengers: Endgame",
+        "actor": "Robert Downey Jr.",
+        "genre": "Hollywood",
+        "image": "https://m.media-amazon.com/images/I/81ExhpBEbHL._AC_SL1500_.jpg",
+        "link": "https://www.example.com/avengersendgame",
+        "description": "A superhero film directed by Anthony and Joe Russo."
+    },
+    {
+        "id": "mkida_11",
+        "title": "Dangal",
+        "actor": "Aamir Khan",
+        "genre": "Bollywood",
+        "image": "https://m.media-amazon.com/images/I/71rFT4DhCQL._SL1081_.jpg",
+        "link": "https://www.example.com/dangal",
+        "description": "A biographical sports drama film."
+    },
+    {
+        "id": "mkida_12",
+        "title": "Mahanati",
+        "actor": "Keerthy Suresh",
+        "genre": "South",
+        "image": "https://m.media-amazon.com/images/I/71A6lg36NmL._AC_SY679_.jpg",
+        "link": "https://www.example.com/mahanati",
+        "description": "A biographical film based on the life of actress Savitri."
+    },
+    {
+        "id": "mkida_13",
+        "title": "Gladiator",
+        "actor": "Russell Crowe",
+        "genre": "Hollywood",
+        "image": "https://m.media-amazon.com/images/I/51l6XLpkVOL._AC_.jpg",
+        "link": "https://www.example.com/gladiator",
+        "description": "A historical drama film directed by Ridley Scott."
+    },
+    {
+        "id": "mkida_14",
+        "title": "Zindagi Na Milegi Dobara",
+        "actor": "Hrithik Roshan",
+        "genre": "Bollywood",
+        "image": "https://m.media-amazon.com/images/I/81HI7YsiD1L._SL1500_.jpg",
+        "link": "https://www.example.com/znmd",
+        "description": "A road trip film directed by Zoya Akhtar."
+    },
+    {
+        "id": "mkida_15",
+        "title": "Asuran",
+        "actor": "Dhanush",
+        "genre": "South",
+        "image": "https://m.media-amazon.com/images/I/71vTWktgUUL._AC_SY679_.jpg",
+        "link": "https://www.example.com/asuran",
+        "description": "An action drama film directed by Vetrimaaran."
+    },
+    {
+        "id": "mkida_16",
+        "title": "Titanic",
+        "actor": "Leonardo DiCaprio",
+        "genre": "Hollywood",
+        "image": "https://m.media-amazon.com/images/I/51wF8lJ9+KL._AC_.jpg",
+        "link": "https://www.example.com/titanic",
+        "description": "A romance and disaster film directed by James Cameron."
+    },
+    {
+        "id": "mkida_17",
+        "title": "Lagaan",
+        "actor": "Aamir Khan",
+        "genre": "Bollywood",
+        "image": "https://m.media-amazon.com/images/I/91Qx8hRAt6L._SL1500_.jpg",
+        "link": "https://www.example.com/lagaan",
+        "description": "A sports drama film directed by Ashutosh Gowariker."
+    },
+    {
+        "id": "mkida_18",
+        "title": "Drishyam",
+        "actor": "Mohanlal",
+        "genre": "South",
+        "image": "https://m.media-amazon.com/images/I/71ZP9HVlyuL._AC_SY679_.jpg",
+        "link": "https://www.example.com/drishyam",
+        "description": "A crime thriller film directed by Jeethu Joseph."
+    },
+    {
+        "id": "mkida_19",
+        "title": "Jurassic Park",
+        "actor": "Sam Neill",
+        "genre": "Hollywood",
+        "image": "https://m.media-amazon.com/images/I/71Xr6RURpvL._AC_SL1024_.jpg",
+        "link": "https://www.example.com/jurassicpark",
+        "description": "A science fiction adventure film directed by Steven Spielberg."
+    },
+    {
+        "id": "mkida_20",
+        "title": "Sholay",
+        "actor": "Amitabh Bachchan",
+        "genre": "Bollywood",
+        "image": "https://m.media-amazon.com/images/I/81hTxBHw7vL._SL1500_.jpg",
+        "link": "https://www.example.com/sholay",
+        "description": "An action-adventure film directed by Ramesh Sippy."
+    },
+    {
+        "id": "mkida_21",
+        "title": "Vikram Vedha",
+        "actor": "R. Madhavan",
+        "genre": "South",
+        "image": "https://m.media-amazon.com/images/I/81A8LP1Ky2L._AC_SL1500_.jpg",
+        "link": "https://www.example.com/vikramvedha",
+        "description": "A neo-noir action thriller directed by Pushkar-Gayathri."
+    },
+    {
+        "id": "mkida_22",
+        "title": "The Matrix",
+        "actor": "Keanu Reeves",
+        "genre": "Hollywood",
+        "image": "https://m.media-amazon.com/images/I/51EG732BV3L._AC_.jpg",
+        "link": "https://www.example.com/matrix",
+        "description": "A science fiction film directed by the Wachowskis."
+    },
+    {
+        "id": "mkida_23",
+        "title": "Gully Boy",
+        "actor": "Ranveer Singh",
+        "genre": "Bollywood",
+        "image": "https://m.media-amazon.com/images/I/91s5RNvR3EL._SL1500_.jpg",
+        "link": "https://www.example.com/gullyboy",
+        "description": "A musical drama film directed by Zoya Akhtar."
+    },
+    {
+        "id": "mkida_24",
+        "title": "Kaithi",
+        "actor": "Karthi",
+        "genre": "South",
+        "image": "https://m.media-amazon.com/images/I/81Znl+L8EBL._AC_SL1500_.jpg",
+        "link": "https://www.example.com/kaithi",
+        "description": "An action thriller film directed by Lokesh Kanagaraj."
+    },
+    {
+        "id": "mkida_25",
+        "title": "The Lord of the Rings: The Fellowship of the Ring",
+        "actor": "Elijah Wood",
+        "genre": "Hollywood",
+        "image": "https://m.media-amazon.com/images/I/51Qvs9i5a%2BL._AC_.jpg",
+        "link": "https://www.example.com/lotr1",
+        "description": "A fantasy adventure film directed by Peter Jackson."
+    },
+    {
+        "id": "mkida_26",
+        "title": "Barfi!",
+        "actor": "Ranbir Kapoor",
+        "genre": "Bollywood",
+        "image": "https://m.media-amazon.com/images/I/81qU0Go70mL._SL1500_.jpg",
+        "link": "https://www.example.com/barfi",
+        "description": "A comedy-drama film directed by Anurag Basu."
+    },
+    {
+        "id": "mkida_27",
+        "title": "Master",
+        "actor": "Vijay",
+        "genre": "South",
+        "image": "https://m.media-amazon.com/images/I/71GbRYuuO3L._AC_SL1500_.jpg",
+        "link": "https://www.example.com/master",
+        "description": "An action-thriller film directed by Lokesh Kanagaraj."
+    },
+    {
+        "id": "mkida_28",
+        "title": "Forrest Gump",
+        "actor": "Tom Hanks",
+        "genre": "Hollywood",
+        "image": "https://m.media-amazon.com/images/I/61fG1dDvq4L._AC_SL1024_.jpg",
+        "link": "https://www.example.com/forrestgump",
+        "description": "A comedy-drama film directed by Robert Zemeckis."
+    },
+    {
+        "id": "mkida_29",
+        "title": "Andhadhun",
+        "actor": "Ayushmann Khurrana",
+        "genre": "Bollywood",
+        "image": "https://m.media-amazon.com/images/I/71AqzSDlIoL._AC_SL1000_.jpg",
+        "link": "https://www.example.com/andhadhun",
+        "description": "A black comedy crime thriller directed by Sriram Raghavan."
+    },
+    {
+        "id": "mkida_30",
+        "title": "Arjun Reddy",
+        "actor": "Vijay Deverakonda",
+        "genre": "South",
+        "image": "https://m.media-amazon.com/images/I/71ZPfN2tDpL._AC_SL1500_.jpg",
+        "link": "https://www.example.com/arjunreddy",
+        "description": "A romantic drama film directed by Sandeep Reddy Vanga."
+    },
+    {
+        "id": "mkida_31",
+        "title": "The Godfather",
+        "actor": "Marlon Brando",
+        "genre": "Hollywood",
+        "image": "https://m.media-amazon.com/images/I/51re9+61LzL._AC_.jpg",
+        "link": "https://www.example.com/godfather",
+        "description": "A crime film directed by Francis Ford Coppola."
+    },
+    {
+        "id": "mkida_32",
+        "title": "Piku",
+        "actor": "Amitabh Bachchan",
+        "genre": "Bollywood",
+        "image": "https://m.media-amazon.com/images/I/51ALHpETQ2L._AC_.jpg",
+        "link": "https://www.example.com/piku",
+        "description": "A comedy-drama film directed by Shoojit Sircar."
+    },
+    {
+        "id": "mkida_33",
+        "title": "Karnan",
+        "actor": "Dhanush",
+        "genre": "South",
+        "image": "https://m.media-amazon.com/images/I/71j8A-Vkg4L._AC_SL1500_.jpg",
+        "link": "https://www.example.com/karnan",
+        "description": "An action drama film directed by Mari Selvaraj."
+    },
+    {
+        "id": "mkida_34",
+        "title": "Fight Club",
+        "actor": "Brad Pitt",
+        "genre": "Hollywood",
+        "image": "https://m.media-amazon.com/images/I/51E-2WM0ZDL._AC_.jpg",
+        "link": "https://www.example.com/fightclub",
+        "description": "A film directed by David Fincher."
+    },
+    {
+        "id": "mkida_35",
+        "title": "Queen",
+        "actor": "Kangana Ranaut",
+        "genre": "Bollywood",
+        "image": "https://m.media-amazon.com/images/I/81RqrnKbq0L._AC_SY679_.jpg",
+        "link": "https://www.example.com/queen",
+        "description": "A comedy-drama film directed by Vikas Bahl."
+    },
+    {
+        "id": "mkida_36",
+        "title": "Baahubali 2: The Conclusion",
+        "actor": "Prabhas",
+        "genre": "South",
+        "image": "https://m.media-amazon.com/images/I/71JZtwVEm7L._AC_SL1181_.jpg",
+        "link": "https://www.example.com/baahubali2",
+        "description": "An epic action film directed by S. S. Rajamouli."
+    },
+    {
+        "id": "mkida_37",
+        "title": "Pulp Fiction",
+        "actor": "John Travolta",
+        "genre": "Hollywood",
+        "image": "https://m.media-amazon.com/images/I/71c05lTE03L._AC_SL1181_.jpg",
+        "link": "https://www.example.com/pulpfiction",
+        "description": "A crime film directed by Quentin Tarantino."
+    },
+    {
+        "id": "mkida_38",
+        "title": "PK",
+        "actor": "Aamir Khan",
+        "genre": "Bollywood",
+        "image": "https://m.media-amazon.com/images/I/71JzME8G9BL._SL1200_.jpg",
+        "link": "https://www.example.com/pk",
+        "description": "A satirical comedy-drama film directed by Rajkumar Hirani."
+    },
+    {
+        "id": "mkida_39",
+        "title": "Vikram",
+        "actor": "Kamal Haasan",
+        "genre": "South",
+        "image": "https://m.media-amazon.com/images/I/71eHGSlD1HL._AC_SL1500_.jpg",
+        "link": "https://www.example.com/vikram",
+        "description": "An action thriller film directed by Lokesh Kanagaraj."
+    },
+    {
+        "id": "mkida_40",
+        "title": "The Shawshank Redemption",
+        "actor": "Tim Robbins",
+        "genre": "Hollywood",
+        "image": "https://m.media-amazon.com/images/I/519NBNHX5BL._AC_.jpg",
+        "link": "https://www.example.com/shawshankredemption",
+        "description": "A drama film directed by Frank Darabont."
+    },
+    {
+        "id": "mkida_41",
+        "title": "Raazi",
+        "actor": "Alia Bhatt",
+        "genre": "Bollywood",
+        "image": "https://m.media-amazon.com/images/I/61Utk9GEd-L._AC_SY679_.jpg",
+        "link": "https://www.example.com/raazi",
+        "description": "A spy thriller film directed by Meghna Gulzar."
+    },
+    {
+        "id": "mkida_42",
+        "title": "Vikramadithyan",
+        "actor": "Dulquer Salmaan",
+        "genre": "South",
+        "image": "https://m.media-amazon.com/images/I/81XT7H2hYcL._SL1500_.jpg",
+        "link": "https://www.example.com/vikramadithyan",
+        "description": "A comedy-drama film directed by Lal Jose."
+    },
+    {
+        "id": "mkida_43",
+        "title": "Saving Private Ryan",
+        "actor": "Tom Hanks",
+        "genre": "Hollywood",
+        "image": "https://m.media-amazon.com/images/I/91r5xeC3kWL._AC_SL1500_.jpg",
+        "link": "https://www.example.com/savingprivateryan",
+        "description": "A war film directed by Steven Spielberg."
+    },
+    {
+        "id": "mkida_44",
+        "title": "Chhichhore",
+        "actor": "Sushant Singh Rajput",
+        "genre": "Bollywood",
+        "image": "https://m.media-amazon.com/images/I/81rF0h6wevL._AC_SY679_.jpg",
+        "link": "https://www.example.com/chhichhore",
+        "description": "A comedy-drama film directed by Nitesh Tiwari."
+    },
+    {
+        "id": "mkida_45",
+        "title": "KGF: Chapter 2",
+        "actor": "Yash",
+        "genre": "South",
+        "image": "https://m.media-amazon.com/images/I/91d7nVXk8dL._AC_SL1500_.jpg",
+        "link": "https://www.example.com/kgf2",
+        "description": "An action film directed by Prashanth Neel."
+    },
+    {
+        "id": "mkida_46",
+        "title": "The Social Network",
+        "actor": "Jesse Eisenberg",
+        "genre": "Hollywood",
+        "image": "https://m.media-amazon.com/images/I/81gTW3lSi1L._AC_SY679_.jpg",
+        "link": "https://www.example.com/thesocialnetwork",
+        "description": "A biographical drama film directed by David Fincher."
+    },
+    {
+        "id": "mkida_47",
+        "title": "Bajrangi Bhaijaan",
+        "actor": "Salman Khan",
+        "genre": "Bollywood",
+        "image": "https://m.media-amazon.com/images/I/91U5Zm0a3yL._SL1500_.jpg",
+        "link": "https://www.example.com/bajrangibhaijaan",
+        "description": "A drama film directed by Kabir Khan."
+    },
+    {
+        "id": "mkida_48",
+        "title": "Ala Vaikunthapurramuloo",
+        "actor": "Allu Arjun",
+        "genre": "South",
+        "image": "https://m.media-amazon.com/images/I/71tjHmz-FBL._AC_SL1500_.jpg",
+        "link": "https://www.example.com/alavaikunthapurramuloo",
+        "description": "An action drama film directed by Trivikram Srinivas."
+    },
+    {
+        "id": "mkida_49",
+        "title": "The Wolf of Wall Street",
+        "actor": "Leonardo DiCaprio",
+        "genre": "Hollywood",
+        "image": "https://m.media-amazon.com/images/I/71k9wL2J9BL._AC_SL1024_.jpg",
+        "link": "https://www.example.com/wolfofwallstreet",
+        "description": "A biographical crime film directed by Martin Scorsese."
+    },
+    {
+        "id": "mkida_50",
+        "title": "Tumbbad",
+        "actor": "Sohum Shah",
+        "genre": "Bollywood",
+        "image": "https://m.media-amazon.com/images/I/81Ah85dMbnL._SL1500_.jpg",
+        "link": "https://www.example.com/tumbbad",
+        "description": "A horror film directed by Rahi Anil Barve."
+    },{
+        "id": "mkida_51",
+        "title": "Parasite",
+        "actor": "Song Kang-ho",
+        "genre": "Hollywood",
+        "image": "https://m.media-amazon.com/images/I/71c05lTE03L._AC_SL1181_.jpg",
+        "link": "https://www.example.com/parasite",
+        "description": "A dark comedy thriller film directed by Bong Joon-ho."
+    }
+    
+]
